@@ -1,0 +1,7 @@
+a:hover{
+    cursor: pointer;
+}
+
+div[id^='drop-menu-']{
+    overflow: visible;
+}
